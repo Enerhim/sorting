@@ -14,6 +14,8 @@ public:
   std::vector<float> getColors() const { return m_color; }
   std::vector<float> getColoredVertices() const { return m_colored_vertices; }
 
+  void updateVertices(std::vector<float> vertices, std::vector<float> color);
+
 private:
   std::vector<float> m_vertices;
   std::vector<unsigned int> m_indices;

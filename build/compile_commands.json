@@ -1,200 +1,206 @@
 [
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/c++ -I/mnt/data/Programming/CProjects/sorting/include -I/mnt/data/Programming/CProjects/sorting/external/glad/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -o CMakeFiles/sorting.dir/src/line.cpp.o -c /mnt/data/Programming/CProjects/sorting/src/line.cpp",
-  "file": "/mnt/data/Programming/CProjects/sorting/src/line.cpp",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/CMakeFiles/sorting.dir/src/line.cpp.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/c++ -I/home/enerhim/Programming/CProjects/sorting/include -I/home/enerhim/Programming/CProjects/sorting/external/glad/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -o CMakeFiles/sorting.dir/src/line.cpp.o -c /home/enerhim/Programming/CProjects/sorting/src/line.cpp",
+  "file": "/home/enerhim/Programming/CProjects/sorting/src/line.cpp",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/CMakeFiles/sorting.dir/src/line.cpp.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/c++ -I/mnt/data/Programming/CProjects/sorting/include -I/mnt/data/Programming/CProjects/sorting/external/glad/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -o CMakeFiles/sorting.dir/src/main.cpp.o -c /mnt/data/Programming/CProjects/sorting/src/main.cpp",
-  "file": "/mnt/data/Programming/CProjects/sorting/src/main.cpp",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/CMakeFiles/sorting.dir/src/main.cpp.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/c++ -I/home/enerhim/Programming/CProjects/sorting/include -I/home/enerhim/Programming/CProjects/sorting/external/glad/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -o CMakeFiles/sorting.dir/src/main.cpp.o -c /home/enerhim/Programming/CProjects/sorting/src/main.cpp",
+  "file": "/home/enerhim/Programming/CProjects/sorting/src/main.cpp",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/CMakeFiles/sorting.dir/src/main.cpp.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/c++ -I/mnt/data/Programming/CProjects/sorting/include -I/mnt/data/Programming/CProjects/sorting/external/glad/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -o CMakeFiles/sorting.dir/src/polygon.cpp.o -c /mnt/data/Programming/CProjects/sorting/src/polygon.cpp",
-  "file": "/mnt/data/Programming/CProjects/sorting/src/polygon.cpp",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/CMakeFiles/sorting.dir/src/polygon.cpp.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/c++ -I/home/enerhim/Programming/CProjects/sorting/include -I/home/enerhim/Programming/CProjects/sorting/external/glad/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -o CMakeFiles/sorting.dir/src/polygon.cpp.o -c /home/enerhim/Programming/CProjects/sorting/src/polygon.cpp",
+  "file": "/home/enerhim/Programming/CProjects/sorting/src/polygon.cpp",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/CMakeFiles/sorting.dir/src/polygon.cpp.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/c++ -I/mnt/data/Programming/CProjects/sorting/include -I/mnt/data/Programming/CProjects/sorting/external/glad/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -o CMakeFiles/sorting.dir/src/renderer.cpp.o -c /mnt/data/Programming/CProjects/sorting/src/renderer.cpp",
-  "file": "/mnt/data/Programming/CProjects/sorting/src/renderer.cpp",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/CMakeFiles/sorting.dir/src/renderer.cpp.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/c++ -I/home/enerhim/Programming/CProjects/sorting/include -I/home/enerhim/Programming/CProjects/sorting/external/glad/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -o CMakeFiles/sorting.dir/src/renderer.cpp.o -c /home/enerhim/Programming/CProjects/sorting/src/renderer.cpp",
+  "file": "/home/enerhim/Programming/CProjects/sorting/src/renderer.cpp",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/CMakeFiles/sorting.dir/src/renderer.cpp.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/c++ -I/mnt/data/Programming/CProjects/sorting/include -I/mnt/data/Programming/CProjects/sorting/external/glad/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -o CMakeFiles/sorting.dir/src/shader.cpp.o -c /mnt/data/Programming/CProjects/sorting/src/shader.cpp",
-  "file": "/mnt/data/Programming/CProjects/sorting/src/shader.cpp",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/CMakeFiles/sorting.dir/src/shader.cpp.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/c++ -I/home/enerhim/Programming/CProjects/sorting/include -I/home/enerhim/Programming/CProjects/sorting/external/glad/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -o CMakeFiles/sorting.dir/src/shader.cpp.o -c /home/enerhim/Programming/CProjects/sorting/src/shader.cpp",
+  "file": "/home/enerhim/Programming/CProjects/sorting/src/shader.cpp",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/CMakeFiles/sorting.dir/src/shader.cpp.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/c++ -I/mnt/data/Programming/CProjects/sorting/include -I/mnt/data/Programming/CProjects/sorting/external/glad/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -o CMakeFiles/sorting.dir/src/window.cpp.o -c /mnt/data/Programming/CProjects/sorting/src/window.cpp",
-  "file": "/mnt/data/Programming/CProjects/sorting/src/window.cpp",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/CMakeFiles/sorting.dir/src/window.cpp.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/c++ -I/home/enerhim/Programming/CProjects/sorting/include -I/home/enerhim/Programming/CProjects/sorting/external/glad/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -o CMakeFiles/sorting.dir/src/sort.cpp.o -c /home/enerhim/Programming/CProjects/sorting/src/sort.cpp",
+  "file": "/home/enerhim/Programming/CProjects/sorting/src/sort.cpp",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/CMakeFiles/sorting.dir/src/sort.cpp.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -I/mnt/data/Programming/CProjects/sorting/include -I/mnt/data/Programming/CProjects/sorting/external/glad/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -o CMakeFiles/sorting.dir/external/glad/src/glad.c.o -c /mnt/data/Programming/CProjects/sorting/external/glad/src/glad.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glad/src/glad.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/CMakeFiles/sorting.dir/external/glad/src/glad.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/c++ -I/home/enerhim/Programming/CProjects/sorting/include -I/home/enerhim/Programming/CProjects/sorting/external/glad/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -o CMakeFiles/sorting.dir/src/window.cpp.o -c /home/enerhim/Programming/CProjects/sorting/src/window.cpp",
+  "file": "/home/enerhim/Programming/CProjects/sorting/src/window.cpp",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/CMakeFiles/sorting.dir/src/window.cpp.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/context.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/context.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/context.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/context.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -I/home/enerhim/Programming/CProjects/sorting/include -I/home/enerhim/Programming/CProjects/sorting/external/glad/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -o CMakeFiles/sorting.dir/external/glad/src/glad.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glad/src/glad.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glad/src/glad.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/CMakeFiles/sorting.dir/external/glad/src/glad.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/init.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/init.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/init.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/init.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/context.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/context.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/context.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/context.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/input.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/input.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/input.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/input.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/init.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/init.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/init.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/init.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/monitor.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/monitor.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/monitor.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/monitor.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/input.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/input.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/input.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/input.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/platform.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/platform.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/platform.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/platform.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/monitor.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/monitor.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/monitor.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/monitor.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/vulkan.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/vulkan.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/platform.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/platform.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/platform.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/platform.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/window.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/window.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/window.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/window.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/vulkan.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/vulkan.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/egl_context.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/egl_context.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/window.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/window.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/window.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/window.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/osmesa_context.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/osmesa_context.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/egl_context.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/egl_context.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/null_init.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/null_init.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/null_init.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/null_init.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/osmesa_context.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/osmesa_context.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/null_monitor.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/null_monitor.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/null_init.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/null_init.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/null_init.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/null_init.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/null_window.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/null_window.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/null_window.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/null_window.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/null_monitor.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/null_monitor.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/null_joystick.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/null_joystick.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/null_window.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/null_window.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/null_window.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/null_window.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/posix_module.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/posix_module.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/null_joystick.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/null_joystick.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/posix_time.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/posix_time.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/posix_time.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/posix_time.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/posix_module.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/posix_module.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/posix_thread.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/posix_thread.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/posix_time.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/posix_time.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/posix_time.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/posix_time.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/x11_init.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/x11_init.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/x11_init.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/x11_init.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/posix_thread.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/posix_thread.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/x11_monitor.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/x11_monitor.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/x11_monitor.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/x11_monitor.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/x11_init.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/x11_init.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/x11_init.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/x11_init.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/x11_window.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/x11_window.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/x11_window.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/x11_window.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/x11_monitor.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/x11_monitor.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/x11_monitor.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/x11_monitor.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/xkb_unicode.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/xkb_unicode.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/xkb_unicode.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/xkb_unicode.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/x11_window.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/x11_window.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/x11_window.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/x11_window.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/glx_context.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/glx_context.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/glx_context.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/glx_context.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/xkb_unicode.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/xkb_unicode.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/xkb_unicode.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/xkb_unicode.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/wl_init.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/wl_init.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/wl_init.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/wl_init.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/glx_context.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/glx_context.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/glx_context.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/glx_context.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/wl_monitor.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/wl_monitor.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/wl_monitor.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/wl_monitor.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/wl_init.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/wl_init.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/wl_init.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/wl_init.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/wl_window.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/wl_window.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/wl_window.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/wl_window.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/wl_monitor.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/wl_monitor.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/wl_monitor.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/wl_monitor.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/linux_joystick.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/linux_joystick.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/linux_joystick.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/linux_joystick.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/wl_window.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/wl_window.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/wl_window.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/wl_window.c.o"
 },
 {
-  "directory": "/mnt/data/Programming/CProjects/sorting/build",
-  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/posix_poll.c.o -c /mnt/data/Programming/CProjects/sorting/external/glfw/src/posix_poll.c",
-  "file": "/mnt/data/Programming/CProjects/sorting/external/glfw/src/posix_poll.c",
-  "output": "/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/posix_poll.c.o"
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/linux_joystick.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/linux_joystick.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/linux_joystick.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/linux_joystick.c.o"
+},
+{
+  "directory": "/home/enerhim/Programming/CProjects/sorting/build",
+  "command": "/usr/bin/cc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src -std=c99 -fPIC -Wall -o external/glfw/src/CMakeFiles/glfw.dir/posix_poll.c.o -c /home/enerhim/Programming/CProjects/sorting/external/glfw/src/posix_poll.c",
+  "file": "/home/enerhim/Programming/CProjects/sorting/external/glfw/src/posix_poll.c",
+  "output": "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/CMakeFiles/glfw.dir/posix_poll.c.o"
 }
 ]

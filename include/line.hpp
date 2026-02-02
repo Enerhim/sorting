@@ -8,6 +8,9 @@ public:
   Line(float x1, float y1, float x2, float y2, float width,
        std::vector<float> color);
 
+  void updateEndpoints(float x1, float y1, float x2, float y2,
+                       std::vector<float> color);
+
 private:
   std::vector<float> m_A, m_B;
   float m_width;

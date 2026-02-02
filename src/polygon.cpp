@@ -53,3 +53,16 @@ void Polygon::colorVertices() {
                               m_color.end());
   }
 }
+
+void Polygon::updateVertices(std::vector<float> vertices,
+                             std::vector<float> color) {
+  m_vertices = vertices;
+  m_color = color;
+  colorVertices();
+
+  glBufferData(GL_ARRAY_BUFFER, m_colored_vertices.size() * sizeof(float),
+               m_colored_vertices.data(), GL_DYNAMIC_DRAW);
+
+  glBufferSubData(GL_ARRAY_BUFFER, 0, m_colored_vertices.size() * sizeof(float),
+                  m_colored_vertices.data());
+}

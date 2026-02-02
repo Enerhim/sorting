@@ -34,8 +34,19 @@ std::vector<float> Line::calculateVertices(float x1, float y1, float x2,
 Line::Line(float x1, float y1, float x2, float y2, float width,
            std::vector<float> color)
     : Polygon(calculateVertices(x1, y1, x2, y2, width), color,
-              {0, 1, 2, 2, 3, 0}, GL_STATIC_DRAW) {
+              {0, 1, 2, 2, 3, 0}, GL_DYNAMIC_DRAW) {
   m_A = {x1, y1};
   m_B = {x2, y2};
   m_width = width;
+}
+
+void Line::updateEndpoints(float x1, float y1, float x2, float y2,
+                           std::vector<float> color) {
+  m_A[0] = x1;
+  m_A[1] = y1;
+  m_B[0] = x2;
+  m_B[1] = y2;
+
+  updateVertices(calculateVertices(m_A[0], m_A[1], m_B[0], m_B[1], m_width),
+                 color);
 }
