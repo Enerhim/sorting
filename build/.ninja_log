@@ -63,14 +63,14 @@
 1350	1707	1770000232307055400	CMakeFiles/sorting.dir/external/glad/src/glad.c.o	701ac6768fed9d0f
 777	1495	1770000231735847600	external/glfw/src/CMakeFiles/glfw.dir/wl_init.c.o	1f92dd8c851e0b7b
 767	1658	1770000231723965200	external/glfw/src/CMakeFiles/glfw.dir/x11_window.c.o	a019703277e91728
-39	994	1770003496786268900	CMakeFiles/sorting.dir/src/main.cpp.o	c62539a19f109132
+47	991	1770005145502760800	CMakeFiles/sorting.dir/src/main.cpp.o	c62539a19f109132
 791	1792	1770000231747519000	external/glfw/src/CMakeFiles/glfw.dir/wl_window.c.o	97f466d9428a1121
 1793	2010	1770000232749328300	external/glfw/src/libglfw3.a	a01e8d81f8c45f4d
 1342	1927	1770000232299168500	CMakeFiles/sorting.dir/src/window.cpp.o	84e85a93ee5fab78
-846	1123	1770003513623046000	bin/sorting	9e31a9c24d6cc843
-1198	1893	1770000232154498400	CMakeFiles/sorting.dir/src/polygon.cpp.o	8e4e32743fbcc9d6
+992	1249	1770005146446821500	bin/sorting	9e31a9c24d6cc843
+50	522	1770004047757737300	CMakeFiles/sorting.dir/src/polygon.cpp.o	8e4e32743fbcc9d6
 853	1827	1770000231809564700	CMakeFiles/sorting.dir/src/line.cpp.o	b724963933784717
-45	860	1770003537244482700	CMakeFiles/sorting.dir/src/sort.cpp.o	a952892cda2d7da7
+34	667	1770004861416261500	CMakeFiles/sorting.dir/src/sort.cpp.o	a952892cda2d7da7
 59	80	1770000231034484200	/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/wayland-client-protocol-code.h	7d1f8143517a7f1d
 60	83	1770000231030802500	/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/viewporter-client-protocol.h	4cd0f321a09a5cfd
 61	88	1770000231032568100	/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/viewporter-client-protocol-code.h	997b5e539497b94e
@@ -89,6 +89,3 @@
 85	102	1770000231054420900	/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/xdg-activation-v1-client-protocol-code.h	7a9ac90db55aba68
 90	103	1770000231056647900	/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/xdg-decoration-unstable-v1-client-protocol.h	71925cabc567dba8
 91	103	1770000231056739000	/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/xdg-decoration-unstable-v1-client-protocol-code.h	28d5a641b910f86a
-52	823	1770003553997541200	CMakeFiles/sorting.dir/src/sort.cpp.o	a952892cda2d7da7
-51	986	1770003553996301000	CMakeFiles/sorting.dir/src/main.cpp.o	c62539a19f109132
-986	1248	1770003554931477900	bin/sorting	9e31a9c24d6cc843

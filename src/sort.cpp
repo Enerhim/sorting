@@ -19,12 +19,11 @@ uint64_t prefix_max(std::vector<int64_t> &A, uint64_t i) {
   return i;
 }
 
-uint64_t selectionSort(std::vector<int64_t> &A, std::vector<Line> &lines,
-                       uint64_t i) {
+uint64_t selectionSort(std::vector<int64_t> &A, uint64_t i, uint64_t &current) {
   if (i > 0) {
     uint64_t max_index = prefix_max(A, i);
+    current = max_index;
     std::swap(A[max_index], A[i]);
-    std::swap(lines[max_index], lines[i]);
   }
 
   return i - 1;

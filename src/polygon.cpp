@@ -60,9 +60,9 @@ void Polygon::updateVertices(std::vector<float> vertices,
   m_color = color;
   colorVertices();
 
+  glBindVertexArray(m_VAO);
+
+  glBindBuffer(GL_ARRAY_BUFFER, m_VBO);
   glBufferData(GL_ARRAY_BUFFER, m_colored_vertices.size() * sizeof(float),
                m_colored_vertices.data(), GL_DYNAMIC_DRAW);
-
-  glBufferSubData(GL_ARRAY_BUFFER, 0, m_colored_vertices.size() * sizeof(float),
-                  m_colored_vertices.data());
 }
