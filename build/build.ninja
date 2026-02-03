@@ -34,7 +34,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /home/enerhim/Programming/CProjects/sorting/build/
+cmake_ninja_workdir = /mnt/data/Programming/CProjects/sorting/build/
 # =============================================================================
 # Object build statements for EXECUTABLE target sorting
 
@@ -44,58 +44,58 @@ cmake_ninja_workdir = /home/enerhim/Programming/CProjects/sorting/build/
 
 build cmake_object_order_depends_target_sorting: phony || cmake_object_order_depends_target_glfw
 
-build CMakeFiles/sorting.dir/src/line.cpp.o: CXX_COMPILER__sorting_unscanned_ /home/enerhim/Programming/CProjects/sorting/src/line.cpp || cmake_object_order_depends_target_sorting
+build CMakeFiles/sorting.dir/src/line.cpp.o: CXX_COMPILER__sorting_unscanned_ /mnt/data/Programming/CProjects/sorting/src/line.cpp || cmake_object_order_depends_target_sorting
   DEP_FILE = CMakeFiles/sorting.dir/src/line.cpp.o.d
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/include -I/home/enerhim/Programming/CProjects/sorting/external/glad/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/include -I/mnt/data/Programming/CProjects/sorting/external/glad/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/include
   OBJECT_DIR = CMakeFiles/sorting.dir
   OBJECT_FILE_DIR = CMakeFiles/sorting.dir/src
   TARGET_SUPPORT_DIR = CMakeFiles/sorting.dir
 
-build CMakeFiles/sorting.dir/src/main.cpp.o: CXX_COMPILER__sorting_unscanned_ /home/enerhim/Programming/CProjects/sorting/src/main.cpp || cmake_object_order_depends_target_sorting
+build CMakeFiles/sorting.dir/src/main.cpp.o: CXX_COMPILER__sorting_unscanned_ /mnt/data/Programming/CProjects/sorting/src/main.cpp || cmake_object_order_depends_target_sorting
   DEP_FILE = CMakeFiles/sorting.dir/src/main.cpp.o.d
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/include -I/home/enerhim/Programming/CProjects/sorting/external/glad/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/include -I/mnt/data/Programming/CProjects/sorting/external/glad/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/include
   OBJECT_DIR = CMakeFiles/sorting.dir
   OBJECT_FILE_DIR = CMakeFiles/sorting.dir/src
   TARGET_SUPPORT_DIR = CMakeFiles/sorting.dir
 
-build CMakeFiles/sorting.dir/src/polygon.cpp.o: CXX_COMPILER__sorting_unscanned_ /home/enerhim/Programming/CProjects/sorting/src/polygon.cpp || cmake_object_order_depends_target_sorting
+build CMakeFiles/sorting.dir/src/polygon.cpp.o: CXX_COMPILER__sorting_unscanned_ /mnt/data/Programming/CProjects/sorting/src/polygon.cpp || cmake_object_order_depends_target_sorting
   DEP_FILE = CMakeFiles/sorting.dir/src/polygon.cpp.o.d
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/include -I/home/enerhim/Programming/CProjects/sorting/external/glad/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/include -I/mnt/data/Programming/CProjects/sorting/external/glad/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/include
   OBJECT_DIR = CMakeFiles/sorting.dir
   OBJECT_FILE_DIR = CMakeFiles/sorting.dir/src
   TARGET_SUPPORT_DIR = CMakeFiles/sorting.dir
 
-build CMakeFiles/sorting.dir/src/renderer.cpp.o: CXX_COMPILER__sorting_unscanned_ /home/enerhim/Programming/CProjects/sorting/src/renderer.cpp || cmake_object_order_depends_target_sorting
+build CMakeFiles/sorting.dir/src/renderer.cpp.o: CXX_COMPILER__sorting_unscanned_ /mnt/data/Programming/CProjects/sorting/src/renderer.cpp || cmake_object_order_depends_target_sorting
   DEP_FILE = CMakeFiles/sorting.dir/src/renderer.cpp.o.d
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/include -I/home/enerhim/Programming/CProjects/sorting/external/glad/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/include -I/mnt/data/Programming/CProjects/sorting/external/glad/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/include
   OBJECT_DIR = CMakeFiles/sorting.dir
   OBJECT_FILE_DIR = CMakeFiles/sorting.dir/src
   TARGET_SUPPORT_DIR = CMakeFiles/sorting.dir
 
-build CMakeFiles/sorting.dir/src/shader.cpp.o: CXX_COMPILER__sorting_unscanned_ /home/enerhim/Programming/CProjects/sorting/src/shader.cpp || cmake_object_order_depends_target_sorting
+build CMakeFiles/sorting.dir/src/shader.cpp.o: CXX_COMPILER__sorting_unscanned_ /mnt/data/Programming/CProjects/sorting/src/shader.cpp || cmake_object_order_depends_target_sorting
   DEP_FILE = CMakeFiles/sorting.dir/src/shader.cpp.o.d
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/include -I/home/enerhim/Programming/CProjects/sorting/external/glad/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/include -I/mnt/data/Programming/CProjects/sorting/external/glad/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/include
   OBJECT_DIR = CMakeFiles/sorting.dir
   OBJECT_FILE_DIR = CMakeFiles/sorting.dir/src
   TARGET_SUPPORT_DIR = CMakeFiles/sorting.dir
 
-build CMakeFiles/sorting.dir/src/sort.cpp.o: CXX_COMPILER__sorting_unscanned_ /home/enerhim/Programming/CProjects/sorting/src/sort.cpp || cmake_object_order_depends_target_sorting
+build CMakeFiles/sorting.dir/src/sort.cpp.o: CXX_COMPILER__sorting_unscanned_ /mnt/data/Programming/CProjects/sorting/src/sort.cpp || cmake_object_order_depends_target_sorting
   DEP_FILE = CMakeFiles/sorting.dir/src/sort.cpp.o.d
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/include -I/home/enerhim/Programming/CProjects/sorting/external/glad/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/include -I/mnt/data/Programming/CProjects/sorting/external/glad/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/include
   OBJECT_DIR = CMakeFiles/sorting.dir
   OBJECT_FILE_DIR = CMakeFiles/sorting.dir/src
   TARGET_SUPPORT_DIR = CMakeFiles/sorting.dir
 
-build CMakeFiles/sorting.dir/src/window.cpp.o: CXX_COMPILER__sorting_unscanned_ /home/enerhim/Programming/CProjects/sorting/src/window.cpp || cmake_object_order_depends_target_sorting
+build CMakeFiles/sorting.dir/src/window.cpp.o: CXX_COMPILER__sorting_unscanned_ /mnt/data/Programming/CProjects/sorting/src/window.cpp || cmake_object_order_depends_target_sorting
   DEP_FILE = CMakeFiles/sorting.dir/src/window.cpp.o.d
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/include -I/home/enerhim/Programming/CProjects/sorting/external/glad/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/include -I/mnt/data/Programming/CProjects/sorting/external/glad/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/include
   OBJECT_DIR = CMakeFiles/sorting.dir
   OBJECT_FILE_DIR = CMakeFiles/sorting.dir/src
   TARGET_SUPPORT_DIR = CMakeFiles/sorting.dir
 
-build CMakeFiles/sorting.dir/external/glad/src/glad.c.o: C_COMPILER__sorting_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glad/src/glad.c || cmake_object_order_depends_target_sorting
+build CMakeFiles/sorting.dir/external/glad/src/glad.c.o: C_COMPILER__sorting_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glad/src/glad.c || cmake_object_order_depends_target_sorting
   DEP_FILE = CMakeFiles/sorting.dir/external/glad/src/glad.c.o.d
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/include -I/home/enerhim/Programming/CProjects/sorting/external/glad/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/include -I/mnt/data/Programming/CProjects/sorting/external/glad/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/include
   OBJECT_DIR = CMakeFiles/sorting.dir
   OBJECT_FILE_DIR = CMakeFiles/sorting.dir/external/glad/src
   TARGET_SUPPORT_DIR = CMakeFiles/sorting.dir
@@ -113,7 +113,7 @@ build bin/sorting: CXX_EXECUTABLE_LINKER__sorting_ CMakeFiles/sorting.dir/src/li
   LINK_FLAGS = -Wl,--dependency-file=CMakeFiles/sorting.dir/link.d
   LINK_LIBRARIES = -lGL  external/glfw/src/libglfw3.a  /usr/lib/librt.a  -lm  -ldl
   OBJECT_DIR = CMakeFiles/sorting.dir
-  POST_BUILD = cd /home/enerhim/Programming/CProjects/sorting/build && /usr/bin/cmake -E copy_directory /home/enerhim/Programming/CProjects/sorting/shaders /home/enerhim/Programming/CProjects/sorting/build/bin/shaders
+  POST_BUILD = cd /mnt/data/Programming/CProjects/sorting/build && /usr/bin/cmake -E copy_directory /mnt/data/Programming/CProjects/sorting/shaders /mnt/data/Programming/CProjects/sorting/build/bin/shaders
   PRE_LINK = :
   TARGET_FILE = bin/sorting
   TARGET_PDB = sorting.dbg
@@ -124,7 +124,7 @@ build bin/sorting: CXX_EXECUTABLE_LINKER__sorting_ CMakeFiles/sorting.dir/src/li
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build && /usr/bin/ccmake -S/home/enerhim/Programming/CProjects/sorting -B/home/enerhim/Programming/CProjects/sorting/build
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build && /usr/bin/ccmake -S/mnt/data/Programming/CProjects/sorting -B/mnt/data/Programming/CProjects/sorting/build
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -136,7 +136,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build && /usr/bin/cmake --regenerate-during-build -S/home/enerhim/Programming/CProjects/sorting -B/home/enerhim/Programming/CProjects/sorting/build
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build && /usr/bin/cmake --regenerate-during-build -S/mnt/data/Programming/CProjects/sorting -B/mnt/data/Programming/CProjects/sorting/build
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -154,7 +154,7 @@ build list_install_components: phony
 # Utility command for install
 
 build CMakeFiles/install.util: CUSTOM_COMMAND all
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build && /usr/bin/cmake -P cmake_install.cmake
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build && /usr/bin/cmake -P cmake_install.cmake
   DESC = Install the project...
   pool = console
   restat = 1
@@ -166,7 +166,7 @@ build install: phony CMakeFiles/install.util
 # Utility command for install/local
 
 build CMakeFiles/install/local.util: CUSTOM_COMMAND all
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build && /usr/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build && /usr/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
   DESC = Installing only the local directory...
   pool = console
   restat = 1
@@ -178,7 +178,7 @@ build install/local: phony CMakeFiles/install/local.util
 # Utility command for install/strip
 
 build CMakeFiles/install/strip.util: CUSTOM_COMMAND all
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build && /usr/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build && /usr/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
   DESC = Installing the project stripped...
   pool = console
   restat = 1
@@ -187,7 +187,7 @@ build install/strip: phony CMakeFiles/install/strip.util
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# /home/enerhim/Programming/CProjects/sorting/CMakeLists.txt
+# /mnt/data/Programming/CProjects/sorting/CMakeLists.txt
 # =============================================================================
 
 
@@ -201,7 +201,7 @@ build external/glfw/uninstall: phony external/glfw/CMakeFiles/uninstall
 # Utility command for edit_cache
 
 build external/glfw/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw && /usr/bin/ccmake -S/home/enerhim/Programming/CProjects/sorting -B/home/enerhim/Programming/CProjects/sorting/build
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw && /usr/bin/ccmake -S/mnt/data/Programming/CProjects/sorting -B/mnt/data/Programming/CProjects/sorting/build
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -213,7 +213,7 @@ build external/glfw/edit_cache: phony external/glfw/CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build external/glfw/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw && /usr/bin/cmake --regenerate-during-build -S/home/enerhim/Programming/CProjects/sorting -B/home/enerhim/Programming/CProjects/sorting/build
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw && /usr/bin/cmake --regenerate-during-build -S/mnt/data/Programming/CProjects/sorting -B/mnt/data/Programming/CProjects/sorting/build
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -231,7 +231,7 @@ build external/glfw/list_install_components: phony
 # Utility command for install
 
 build external/glfw/CMakeFiles/install.util: CUSTOM_COMMAND external/glfw/all
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw && /usr/bin/cmake -P cmake_install.cmake
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw && /usr/bin/cmake -P cmake_install.cmake
   DESC = Install the project...
   pool = console
   restat = 1
@@ -243,7 +243,7 @@ build external/glfw/install: phony external/glfw/CMakeFiles/install.util
 # Utility command for install/local
 
 build external/glfw/CMakeFiles/install/local.util: CUSTOM_COMMAND external/glfw/all
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw && /usr/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw && /usr/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
   DESC = Installing only the local directory...
   pool = console
   restat = 1
@@ -255,7 +255,7 @@ build external/glfw/install/local: phony external/glfw/CMakeFiles/install/local.
 # Utility command for install/strip
 
 build external/glfw/CMakeFiles/install/strip.util: CUSTOM_COMMAND external/glfw/all
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw && /usr/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw && /usr/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
   DESC = Installing the project stripped...
   pool = console
   restat = 1
@@ -267,11 +267,11 @@ build external/glfw/install/strip: phony external/glfw/CMakeFiles/install/strip.
 # Custom command for external/glfw/CMakeFiles/uninstall
 
 build external/glfw/CMakeFiles/uninstall | ${cmake_ninja_workdir}external/glfw/CMakeFiles/uninstall: CUSTOM_COMMAND
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw && /usr/bin/cmake -P /home/enerhim/Programming/CProjects/sorting/build/external/glfw/cmake_uninstall.cmake
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw && /usr/bin/cmake -P /mnt/data/Programming/CProjects/sorting/build/external/glfw/cmake_uninstall.cmake
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# /home/enerhim/Programming/CProjects/sorting/external/glfw/CMakeLists.txt
+# /mnt/data/Programming/CProjects/sorting/external/glfw/CMakeLists.txt
 # =============================================================================
 
 # =============================================================================
@@ -283,236 +283,236 @@ build external/glfw/CMakeFiles/uninstall | ${cmake_ninja_workdir}external/glfw/C
 
 build cmake_object_order_depends_target_glfw: phony || external/glfw/src/fractional-scale-v1-client-protocol-code.h external/glfw/src/fractional-scale-v1-client-protocol.h external/glfw/src/idle-inhibit-unstable-v1-client-protocol-code.h external/glfw/src/idle-inhibit-unstable-v1-client-protocol.h external/glfw/src/pointer-constraints-unstable-v1-client-protocol-code.h external/glfw/src/pointer-constraints-unstable-v1-client-protocol.h external/glfw/src/relative-pointer-unstable-v1-client-protocol-code.h external/glfw/src/relative-pointer-unstable-v1-client-protocol.h external/glfw/src/viewporter-client-protocol-code.h external/glfw/src/viewporter-client-protocol.h external/glfw/src/wayland-client-protocol-code.h external/glfw/src/wayland-client-protocol.h external/glfw/src/xdg-activation-v1-client-protocol-code.h external/glfw/src/xdg-activation-v1-client-protocol.h external/glfw/src/xdg-decoration-unstable-v1-client-protocol-code.h external/glfw/src/xdg-decoration-unstable-v1-client-protocol.h external/glfw/src/xdg-shell-client-protocol-code.h external/glfw/src/xdg-shell-client-protocol.h
 
-build external/glfw/src/CMakeFiles/glfw.dir/context.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/context.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/context.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/context.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/context.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/init.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/init.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/init.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/init.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/init.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/input.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/input.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/input.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/input.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/input.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/monitor.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/monitor.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/monitor.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/monitor.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/monitor.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/platform.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/platform.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/platform.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/platform.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/platform.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/vulkan.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/vulkan.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/window.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/window.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/window.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/window.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/window.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/egl_context.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/egl_context.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/osmesa_context.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/osmesa_context.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/null_init.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/null_init.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/null_init.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/null_init.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/null_init.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/null_monitor.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/null_monitor.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/null_window.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/null_window.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/null_window.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/null_window.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/null_window.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/null_joystick.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/null_joystick.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/posix_module.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/posix_module.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/posix_time.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/posix_time.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/posix_time.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/posix_time.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/posix_time.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/posix_thread.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/posix_thread.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/x11_init.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/x11_init.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/x11_init.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/x11_init.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/x11_init.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/x11_monitor.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/x11_monitor.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/x11_monitor.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/x11_monitor.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/x11_monitor.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/x11_window.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/x11_window.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/x11_window.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/x11_window.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/x11_window.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/xkb_unicode.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/xkb_unicode.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/xkb_unicode.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/xkb_unicode.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/xkb_unicode.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/glx_context.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/glx_context.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/glx_context.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/glx_context.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/glx_context.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/wl_init.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/wl_init.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/wl_init.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/wl_init.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/wl_init.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/wl_monitor.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/wl_monitor.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/wl_monitor.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/wl_monitor.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/wl_monitor.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/wl_window.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/wl_window.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/wl_window.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/wl_window.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/wl_window.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/linux_joystick.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/linux_joystick.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/linux_joystick.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/linux_joystick.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/linux_joystick.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
 
-build external/glfw/src/CMakeFiles/glfw.dir/posix_poll.c.o: C_COMPILER__glfw_unscanned_ /home/enerhim/Programming/CProjects/sorting/external/glfw/src/posix_poll.c || cmake_object_order_depends_target_glfw
+build external/glfw/src/CMakeFiles/glfw.dir/posix_poll.c.o: C_COMPILER__glfw_unscanned_ /mnt/data/Programming/CProjects/sorting/external/glfw/src/posix_poll.c || cmake_object_order_depends_target_glfw
   DEFINES = -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11
   DEP_FILE = external/glfw/src/CMakeFiles/glfw.dir/posix_poll.c.o.d
   FLAGS = -std=c99 -fPIC -Wall
-  INCLUDES = -I/home/enerhim/Programming/CProjects/sorting/external/glfw/include -I/home/enerhim/Programming/CProjects/sorting/external/glfw/src -I/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+  INCLUDES = -I/mnt/data/Programming/CProjects/sorting/external/glfw/include -I/mnt/data/Programming/CProjects/sorting/external/glfw/src -I/mnt/data/Programming/CProjects/sorting/build/external/glfw/src
   OBJECT_DIR = external/glfw/src/CMakeFiles/glfw.dir
   OBJECT_FILE_DIR = external/glfw/src/CMakeFiles/glfw.dir
   TARGET_SUPPORT_DIR = external/glfw/src/CMakeFiles/glfw.dir
@@ -544,7 +544,7 @@ build external/glfw/src/update_mappings: phony external/glfw/src/CMakeFiles/upda
 # Utility command for edit_cache
 
 build external/glfw/src/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/ccmake -S/home/enerhim/Programming/CProjects/sorting -B/home/enerhim/Programming/CProjects/sorting/build
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/ccmake -S/mnt/data/Programming/CProjects/sorting -B/mnt/data/Programming/CProjects/sorting/build
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -556,7 +556,7 @@ build external/glfw/src/edit_cache: phony external/glfw/src/CMakeFiles/edit_cach
 # Utility command for rebuild_cache
 
 build external/glfw/src/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/cmake --regenerate-during-build -S/home/enerhim/Programming/CProjects/sorting -B/home/enerhim/Programming/CProjects/sorting/build
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/cmake --regenerate-during-build -S/mnt/data/Programming/CProjects/sorting -B/mnt/data/Programming/CProjects/sorting/build
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -574,7 +574,7 @@ build external/glfw/src/list_install_components: phony
 # Utility command for install
 
 build external/glfw/src/CMakeFiles/install.util: CUSTOM_COMMAND external/glfw/src/all
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/cmake -P cmake_install.cmake
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/cmake -P cmake_install.cmake
   DESC = Install the project...
   pool = console
   restat = 1
@@ -586,7 +586,7 @@ build external/glfw/src/install: phony external/glfw/src/CMakeFiles/install.util
 # Utility command for install/local
 
 build external/glfw/src/CMakeFiles/install/local.util: CUSTOM_COMMAND external/glfw/src/all
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
   DESC = Installing only the local directory...
   pool = console
   restat = 1
@@ -598,7 +598,7 @@ build external/glfw/src/install/local: phony external/glfw/src/CMakeFiles/instal
 # Utility command for install/strip
 
 build external/glfw/src/CMakeFiles/install/strip.util: CUSTOM_COMMAND external/glfw/src/all
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
   DESC = Installing the project stripped...
   pool = console
   restat = 1
@@ -609,8 +609,8 @@ build external/glfw/src/install/strip: phony external/glfw/src/CMakeFiles/instal
 #############################################
 # Custom command for external/glfw/src/wayland-client-protocol.h
 
-build external/glfw/src/wayland-client-protocol.h | ${cmake_ninja_workdir}external/glfw/src/wayland-client-protocol.h: CUSTOM_COMMAND /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/wayland.xml
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner client-header /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/wayland.xml wayland-client-protocol.h
+build external/glfw/src/wayland-client-protocol.h | ${cmake_ninja_workdir}external/glfw/src/wayland-client-protocol.h: CUSTOM_COMMAND /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/wayland.xml
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner client-header /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/wayland.xml wayland-client-protocol.h
   DESC = Generating wayland-client-protocol.h
   restat = 1
 
@@ -618,8 +618,8 @@ build external/glfw/src/wayland-client-protocol.h | ${cmake_ninja_workdir}extern
 #############################################
 # Custom command for external/glfw/src/wayland-client-protocol-code.h
 
-build external/glfw/src/wayland-client-protocol-code.h | ${cmake_ninja_workdir}external/glfw/src/wayland-client-protocol-code.h: CUSTOM_COMMAND /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/wayland.xml
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner private-code /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/wayland.xml wayland-client-protocol-code.h
+build external/glfw/src/wayland-client-protocol-code.h | ${cmake_ninja_workdir}external/glfw/src/wayland-client-protocol-code.h: CUSTOM_COMMAND /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/wayland.xml
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner private-code /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/wayland.xml wayland-client-protocol-code.h
   DESC = Generating wayland-client-protocol-code.h
   restat = 1
 
@@ -627,8 +627,8 @@ build external/glfw/src/wayland-client-protocol-code.h | ${cmake_ninja_workdir}e
 #############################################
 # Custom command for external/glfw/src/viewporter-client-protocol.h
 
-build external/glfw/src/viewporter-client-protocol.h | ${cmake_ninja_workdir}external/glfw/src/viewporter-client-protocol.h: CUSTOM_COMMAND /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/viewporter.xml
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner client-header /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/viewporter.xml viewporter-client-protocol.h
+build external/glfw/src/viewporter-client-protocol.h | ${cmake_ninja_workdir}external/glfw/src/viewporter-client-protocol.h: CUSTOM_COMMAND /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/viewporter.xml
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner client-header /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/viewporter.xml viewporter-client-protocol.h
   DESC = Generating viewporter-client-protocol.h
   restat = 1
 
@@ -636,8 +636,8 @@ build external/glfw/src/viewporter-client-protocol.h | ${cmake_ninja_workdir}ext
 #############################################
 # Custom command for external/glfw/src/viewporter-client-protocol-code.h
 
-build external/glfw/src/viewporter-client-protocol-code.h | ${cmake_ninja_workdir}external/glfw/src/viewporter-client-protocol-code.h: CUSTOM_COMMAND /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/viewporter.xml
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner private-code /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/viewporter.xml viewporter-client-protocol-code.h
+build external/glfw/src/viewporter-client-protocol-code.h | ${cmake_ninja_workdir}external/glfw/src/viewporter-client-protocol-code.h: CUSTOM_COMMAND /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/viewporter.xml
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner private-code /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/viewporter.xml viewporter-client-protocol-code.h
   DESC = Generating viewporter-client-protocol-code.h
   restat = 1
 
@@ -645,8 +645,8 @@ build external/glfw/src/viewporter-client-protocol-code.h | ${cmake_ninja_workdi
 #############################################
 # Custom command for external/glfw/src/xdg-shell-client-protocol.h
 
-build external/glfw/src/xdg-shell-client-protocol.h | ${cmake_ninja_workdir}external/glfw/src/xdg-shell-client-protocol.h: CUSTOM_COMMAND /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-shell.xml
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner client-header /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-shell.xml xdg-shell-client-protocol.h
+build external/glfw/src/xdg-shell-client-protocol.h | ${cmake_ninja_workdir}external/glfw/src/xdg-shell-client-protocol.h: CUSTOM_COMMAND /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-shell.xml
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner client-header /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-shell.xml xdg-shell-client-protocol.h
   DESC = Generating xdg-shell-client-protocol.h
   restat = 1
 
@@ -654,8 +654,8 @@ build external/glfw/src/xdg-shell-client-protocol.h | ${cmake_ninja_workdir}exte
 #############################################
 # Custom command for external/glfw/src/xdg-shell-client-protocol-code.h
 
-build external/glfw/src/xdg-shell-client-protocol-code.h | ${cmake_ninja_workdir}external/glfw/src/xdg-shell-client-protocol-code.h: CUSTOM_COMMAND /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-shell.xml
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner private-code /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-shell.xml xdg-shell-client-protocol-code.h
+build external/glfw/src/xdg-shell-client-protocol-code.h | ${cmake_ninja_workdir}external/glfw/src/xdg-shell-client-protocol-code.h: CUSTOM_COMMAND /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-shell.xml
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner private-code /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-shell.xml xdg-shell-client-protocol-code.h
   DESC = Generating xdg-shell-client-protocol-code.h
   restat = 1
 
@@ -663,8 +663,8 @@ build external/glfw/src/xdg-shell-client-protocol-code.h | ${cmake_ninja_workdir
 #############################################
 # Custom command for external/glfw/src/idle-inhibit-unstable-v1-client-protocol.h
 
-build external/glfw/src/idle-inhibit-unstable-v1-client-protocol.h | ${cmake_ninja_workdir}external/glfw/src/idle-inhibit-unstable-v1-client-protocol.h: CUSTOM_COMMAND /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/idle-inhibit-unstable-v1.xml
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner client-header /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/idle-inhibit-unstable-v1.xml idle-inhibit-unstable-v1-client-protocol.h
+build external/glfw/src/idle-inhibit-unstable-v1-client-protocol.h | ${cmake_ninja_workdir}external/glfw/src/idle-inhibit-unstable-v1-client-protocol.h: CUSTOM_COMMAND /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/idle-inhibit-unstable-v1.xml
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner client-header /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/idle-inhibit-unstable-v1.xml idle-inhibit-unstable-v1-client-protocol.h
   DESC = Generating idle-inhibit-unstable-v1-client-protocol.h
   restat = 1
 
@@ -672,8 +672,8 @@ build external/glfw/src/idle-inhibit-unstable-v1-client-protocol.h | ${cmake_nin
 #############################################
 # Custom command for external/glfw/src/idle-inhibit-unstable-v1-client-protocol-code.h
 
-build external/glfw/src/idle-inhibit-unstable-v1-client-protocol-code.h | ${cmake_ninja_workdir}external/glfw/src/idle-inhibit-unstable-v1-client-protocol-code.h: CUSTOM_COMMAND /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/idle-inhibit-unstable-v1.xml
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner private-code /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/idle-inhibit-unstable-v1.xml idle-inhibit-unstable-v1-client-protocol-code.h
+build external/glfw/src/idle-inhibit-unstable-v1-client-protocol-code.h | ${cmake_ninja_workdir}external/glfw/src/idle-inhibit-unstable-v1-client-protocol-code.h: CUSTOM_COMMAND /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/idle-inhibit-unstable-v1.xml
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner private-code /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/idle-inhibit-unstable-v1.xml idle-inhibit-unstable-v1-client-protocol-code.h
   DESC = Generating idle-inhibit-unstable-v1-client-protocol-code.h
   restat = 1
 
@@ -681,8 +681,8 @@ build external/glfw/src/idle-inhibit-unstable-v1-client-protocol-code.h | ${cmak
 #############################################
 # Custom command for external/glfw/src/pointer-constraints-unstable-v1-client-protocol.h
 
-build external/glfw/src/pointer-constraints-unstable-v1-client-protocol.h | ${cmake_ninja_workdir}external/glfw/src/pointer-constraints-unstable-v1-client-protocol.h: CUSTOM_COMMAND /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/pointer-constraints-unstable-v1.xml
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner client-header /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/pointer-constraints-unstable-v1.xml pointer-constraints-unstable-v1-client-protocol.h
+build external/glfw/src/pointer-constraints-unstable-v1-client-protocol.h | ${cmake_ninja_workdir}external/glfw/src/pointer-constraints-unstable-v1-client-protocol.h: CUSTOM_COMMAND /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/pointer-constraints-unstable-v1.xml
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner client-header /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/pointer-constraints-unstable-v1.xml pointer-constraints-unstable-v1-client-protocol.h
   DESC = Generating pointer-constraints-unstable-v1-client-protocol.h
   restat = 1
 
@@ -690,8 +690,8 @@ build external/glfw/src/pointer-constraints-unstable-v1-client-protocol.h | ${cm
 #############################################
 # Custom command for external/glfw/src/pointer-constraints-unstable-v1-client-protocol-code.h
 
-build external/glfw/src/pointer-constraints-unstable-v1-client-protocol-code.h | ${cmake_ninja_workdir}external/glfw/src/pointer-constraints-unstable-v1-client-protocol-code.h: CUSTOM_COMMAND /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/pointer-constraints-unstable-v1.xml
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner private-code /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/pointer-constraints-unstable-v1.xml pointer-constraints-unstable-v1-client-protocol-code.h
+build external/glfw/src/pointer-constraints-unstable-v1-client-protocol-code.h | ${cmake_ninja_workdir}external/glfw/src/pointer-constraints-unstable-v1-client-protocol-code.h: CUSTOM_COMMAND /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/pointer-constraints-unstable-v1.xml
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner private-code /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/pointer-constraints-unstable-v1.xml pointer-constraints-unstable-v1-client-protocol-code.h
   DESC = Generating pointer-constraints-unstable-v1-client-protocol-code.h
   restat = 1
 
@@ -699,8 +699,8 @@ build external/glfw/src/pointer-constraints-unstable-v1-client-protocol-code.h |
 #############################################
 # Custom command for external/glfw/src/relative-pointer-unstable-v1-client-protocol.h
 
-build external/glfw/src/relative-pointer-unstable-v1-client-protocol.h | ${cmake_ninja_workdir}external/glfw/src/relative-pointer-unstable-v1-client-protocol.h: CUSTOM_COMMAND /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/relative-pointer-unstable-v1.xml
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner client-header /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/relative-pointer-unstable-v1.xml relative-pointer-unstable-v1-client-protocol.h
+build external/glfw/src/relative-pointer-unstable-v1-client-protocol.h | ${cmake_ninja_workdir}external/glfw/src/relative-pointer-unstable-v1-client-protocol.h: CUSTOM_COMMAND /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/relative-pointer-unstable-v1.xml
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner client-header /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/relative-pointer-unstable-v1.xml relative-pointer-unstable-v1-client-protocol.h
   DESC = Generating relative-pointer-unstable-v1-client-protocol.h
   restat = 1
 
@@ -708,8 +708,8 @@ build external/glfw/src/relative-pointer-unstable-v1-client-protocol.h | ${cmake
 #############################################
 # Custom command for external/glfw/src/relative-pointer-unstable-v1-client-protocol-code.h
 
-build external/glfw/src/relative-pointer-unstable-v1-client-protocol-code.h | ${cmake_ninja_workdir}external/glfw/src/relative-pointer-unstable-v1-client-protocol-code.h: CUSTOM_COMMAND /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/relative-pointer-unstable-v1.xml
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner private-code /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/relative-pointer-unstable-v1.xml relative-pointer-unstable-v1-client-protocol-code.h
+build external/glfw/src/relative-pointer-unstable-v1-client-protocol-code.h | ${cmake_ninja_workdir}external/glfw/src/relative-pointer-unstable-v1-client-protocol-code.h: CUSTOM_COMMAND /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/relative-pointer-unstable-v1.xml
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner private-code /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/relative-pointer-unstable-v1.xml relative-pointer-unstable-v1-client-protocol-code.h
   DESC = Generating relative-pointer-unstable-v1-client-protocol-code.h
   restat = 1
 
@@ -717,8 +717,8 @@ build external/glfw/src/relative-pointer-unstable-v1-client-protocol-code.h | ${
 #############################################
 # Custom command for external/glfw/src/fractional-scale-v1-client-protocol.h
 
-build external/glfw/src/fractional-scale-v1-client-protocol.h | ${cmake_ninja_workdir}external/glfw/src/fractional-scale-v1-client-protocol.h: CUSTOM_COMMAND /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/fractional-scale-v1.xml
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner client-header /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/fractional-scale-v1.xml fractional-scale-v1-client-protocol.h
+build external/glfw/src/fractional-scale-v1-client-protocol.h | ${cmake_ninja_workdir}external/glfw/src/fractional-scale-v1-client-protocol.h: CUSTOM_COMMAND /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/fractional-scale-v1.xml
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner client-header /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/fractional-scale-v1.xml fractional-scale-v1-client-protocol.h
   DESC = Generating fractional-scale-v1-client-protocol.h
   restat = 1
 
@@ -726,8 +726,8 @@ build external/glfw/src/fractional-scale-v1-client-protocol.h | ${cmake_ninja_wo
 #############################################
 # Custom command for external/glfw/src/fractional-scale-v1-client-protocol-code.h
 
-build external/glfw/src/fractional-scale-v1-client-protocol-code.h | ${cmake_ninja_workdir}external/glfw/src/fractional-scale-v1-client-protocol-code.h: CUSTOM_COMMAND /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/fractional-scale-v1.xml
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner private-code /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/fractional-scale-v1.xml fractional-scale-v1-client-protocol-code.h
+build external/glfw/src/fractional-scale-v1-client-protocol-code.h | ${cmake_ninja_workdir}external/glfw/src/fractional-scale-v1-client-protocol-code.h: CUSTOM_COMMAND /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/fractional-scale-v1.xml
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner private-code /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/fractional-scale-v1.xml fractional-scale-v1-client-protocol-code.h
   DESC = Generating fractional-scale-v1-client-protocol-code.h
   restat = 1
 
@@ -735,8 +735,8 @@ build external/glfw/src/fractional-scale-v1-client-protocol-code.h | ${cmake_nin
 #############################################
 # Custom command for external/glfw/src/xdg-activation-v1-client-protocol.h
 
-build external/glfw/src/xdg-activation-v1-client-protocol.h | ${cmake_ninja_workdir}external/glfw/src/xdg-activation-v1-client-protocol.h: CUSTOM_COMMAND /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-activation-v1.xml
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner client-header /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-activation-v1.xml xdg-activation-v1-client-protocol.h
+build external/glfw/src/xdg-activation-v1-client-protocol.h | ${cmake_ninja_workdir}external/glfw/src/xdg-activation-v1-client-protocol.h: CUSTOM_COMMAND /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-activation-v1.xml
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner client-header /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-activation-v1.xml xdg-activation-v1-client-protocol.h
   DESC = Generating xdg-activation-v1-client-protocol.h
   restat = 1
 
@@ -744,8 +744,8 @@ build external/glfw/src/xdg-activation-v1-client-protocol.h | ${cmake_ninja_work
 #############################################
 # Custom command for external/glfw/src/xdg-activation-v1-client-protocol-code.h
 
-build external/glfw/src/xdg-activation-v1-client-protocol-code.h | ${cmake_ninja_workdir}external/glfw/src/xdg-activation-v1-client-protocol-code.h: CUSTOM_COMMAND /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-activation-v1.xml
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner private-code /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-activation-v1.xml xdg-activation-v1-client-protocol-code.h
+build external/glfw/src/xdg-activation-v1-client-protocol-code.h | ${cmake_ninja_workdir}external/glfw/src/xdg-activation-v1-client-protocol-code.h: CUSTOM_COMMAND /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-activation-v1.xml
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner private-code /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-activation-v1.xml xdg-activation-v1-client-protocol-code.h
   DESC = Generating xdg-activation-v1-client-protocol-code.h
   restat = 1
 
@@ -753,8 +753,8 @@ build external/glfw/src/xdg-activation-v1-client-protocol-code.h | ${cmake_ninja
 #############################################
 # Custom command for external/glfw/src/xdg-decoration-unstable-v1-client-protocol.h
 
-build external/glfw/src/xdg-decoration-unstable-v1-client-protocol.h | ${cmake_ninja_workdir}external/glfw/src/xdg-decoration-unstable-v1-client-protocol.h: CUSTOM_COMMAND /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-decoration-unstable-v1.xml
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner client-header /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-decoration-unstable-v1.xml xdg-decoration-unstable-v1-client-protocol.h
+build external/glfw/src/xdg-decoration-unstable-v1-client-protocol.h | ${cmake_ninja_workdir}external/glfw/src/xdg-decoration-unstable-v1-client-protocol.h: CUSTOM_COMMAND /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-decoration-unstable-v1.xml
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner client-header /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-decoration-unstable-v1.xml xdg-decoration-unstable-v1-client-protocol.h
   DESC = Generating xdg-decoration-unstable-v1-client-protocol.h
   restat = 1
 
@@ -762,8 +762,8 @@ build external/glfw/src/xdg-decoration-unstable-v1-client-protocol.h | ${cmake_n
 #############################################
 # Custom command for external/glfw/src/xdg-decoration-unstable-v1-client-protocol-code.h
 
-build external/glfw/src/xdg-decoration-unstable-v1-client-protocol-code.h | ${cmake_ninja_workdir}external/glfw/src/xdg-decoration-unstable-v1-client-protocol-code.h: CUSTOM_COMMAND /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-decoration-unstable-v1.xml
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner private-code /home/enerhim/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-decoration-unstable-v1.xml xdg-decoration-unstable-v1-client-protocol-code.h
+build external/glfw/src/xdg-decoration-unstable-v1-client-protocol-code.h | ${cmake_ninja_workdir}external/glfw/src/xdg-decoration-unstable-v1-client-protocol-code.h: CUSTOM_COMMAND /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-decoration-unstable-v1.xml
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/src && /usr/bin/wayland-scanner private-code /mnt/data/Programming/CProjects/sorting/external/glfw/deps/wayland/xdg-decoration-unstable-v1.xml xdg-decoration-unstable-v1-client-protocol-code.h
   DESC = Generating xdg-decoration-unstable-v1-client-protocol-code.h
   restat = 1
 
@@ -772,12 +772,12 @@ build external/glfw/src/xdg-decoration-unstable-v1-client-protocol-code.h | ${cm
 # Custom command for external/glfw/src/CMakeFiles/update_mappings
 
 build external/glfw/src/CMakeFiles/update_mappings | ${cmake_ninja_workdir}external/glfw/src/CMakeFiles/update_mappings: CUSTOM_COMMAND
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/external/glfw/src && /usr/bin/cmake -P /home/enerhim/Programming/CProjects/sorting/external/glfw/CMake/GenerateMappings.cmake mappings.h.in mappings.h
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/external/glfw/src && /usr/bin/cmake -P /mnt/data/Programming/CProjects/sorting/external/glfw/CMake/GenerateMappings.cmake mappings.h.in mappings.h
   DESC = Updating gamepad mappings from upstream repository
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# /home/enerhim/Programming/CProjects/sorting/external/glfw/CMakeLists.txt
+# /mnt/data/Programming/CProjects/sorting/external/glfw/CMakeLists.txt
 # =============================================================================
 
 
@@ -785,7 +785,7 @@ build external/glfw/src/CMakeFiles/update_mappings | ${cmake_ninja_workdir}exter
 # Utility command for edit_cache
 
 build external/glfw/docs/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/docs && /usr/bin/ccmake -S/home/enerhim/Programming/CProjects/sorting -B/home/enerhim/Programming/CProjects/sorting/build
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/docs && /usr/bin/ccmake -S/mnt/data/Programming/CProjects/sorting -B/mnt/data/Programming/CProjects/sorting/build
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -797,7 +797,7 @@ build external/glfw/docs/edit_cache: phony external/glfw/docs/CMakeFiles/edit_ca
 # Utility command for rebuild_cache
 
 build external/glfw/docs/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/docs && /usr/bin/cmake --regenerate-during-build -S/home/enerhim/Programming/CProjects/sorting -B/home/enerhim/Programming/CProjects/sorting/build
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/docs && /usr/bin/cmake --regenerate-during-build -S/mnt/data/Programming/CProjects/sorting -B/mnt/data/Programming/CProjects/sorting/build
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -815,7 +815,7 @@ build external/glfw/docs/list_install_components: phony
 # Utility command for install
 
 build external/glfw/docs/CMakeFiles/install.util: CUSTOM_COMMAND external/glfw/docs/all
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/docs && /usr/bin/cmake -P cmake_install.cmake
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/docs && /usr/bin/cmake -P cmake_install.cmake
   DESC = Install the project...
   pool = console
   restat = 1
@@ -827,7 +827,7 @@ build external/glfw/docs/install: phony external/glfw/docs/CMakeFiles/install.ut
 # Utility command for install/local
 
 build external/glfw/docs/CMakeFiles/install/local.util: CUSTOM_COMMAND external/glfw/docs/all
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/docs && /usr/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/docs && /usr/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
   DESC = Installing only the local directory...
   pool = console
   restat = 1
@@ -839,7 +839,7 @@ build external/glfw/docs/install/local: phony external/glfw/docs/CMakeFiles/inst
 # Utility command for install/strip
 
 build external/glfw/docs/CMakeFiles/install/strip.util: CUSTOM_COMMAND external/glfw/docs/all
-  COMMAND = cd /home/enerhim/Programming/CProjects/sorting/build/external/glfw/docs && /usr/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
+  COMMAND = cd /mnt/data/Programming/CProjects/sorting/build/external/glfw/docs && /usr/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
   DESC = Installing the project stripped...
   pool = console
   restat = 1
@@ -865,56 +865,56 @@ build update_mappings: phony external/glfw/src/update_mappings
 # =============================================================================
 
 #############################################
-# Folder: /home/enerhim/Programming/CProjects/sorting/build
+# Folder: /mnt/data/Programming/CProjects/sorting/build
 
 build codegen: phony external/glfw/codegen
 
 # =============================================================================
 
 #############################################
-# Folder: /home/enerhim/Programming/CProjects/sorting/build/external/glfw
+# Folder: /mnt/data/Programming/CProjects/sorting/build/external/glfw
 
 build external/glfw/codegen: phony external/glfw/src/codegen external/glfw/docs/codegen
 
 # =============================================================================
 
 #############################################
-# Folder: /home/enerhim/Programming/CProjects/sorting/build/external/glfw/docs
+# Folder: /mnt/data/Programming/CProjects/sorting/build/external/glfw/docs
 
 build external/glfw/docs/codegen: phony
 
 # =============================================================================
 
 #############################################
-# Folder: /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+# Folder: /mnt/data/Programming/CProjects/sorting/build/external/glfw/src
 
 build external/glfw/src/codegen: phony
 
 # =============================================================================
 
 #############################################
-# Folder: /home/enerhim/Programming/CProjects/sorting/build
+# Folder: /mnt/data/Programming/CProjects/sorting/build
 
 build all: phony bin/sorting external/glfw/all
 
 # =============================================================================
 
 #############################################
-# Folder: /home/enerhim/Programming/CProjects/sorting/build/external/glfw
+# Folder: /mnt/data/Programming/CProjects/sorting/build/external/glfw
 
 build external/glfw/all: phony external/glfw/src/all external/glfw/docs/all
 
 # =============================================================================
 
 #############################################
-# Folder: /home/enerhim/Programming/CProjects/sorting/build/external/glfw/docs
+# Folder: /mnt/data/Programming/CProjects/sorting/build/external/glfw/docs
 
 build external/glfw/docs/all: phony
 
 # =============================================================================
 
 #############################################
-# Folder: /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src
+# Folder: /mnt/data/Programming/CProjects/sorting/build/external/glfw/src
 
 build external/glfw/src/all: phony external/glfw/src/libglfw3.a
 
@@ -925,14 +925,14 @@ build external/glfw/src/all: phony external/glfw/src/libglfw3.a
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja /home/enerhim/Programming/CProjects/sorting/build/cmake_install.cmake /home/enerhim/Programming/CProjects/sorting/build/external/glfw/cmake_install.cmake /home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/cmake_install.cmake /home/enerhim/Programming/CProjects/sorting/build/external/glfw/docs/cmake_install.cmake: RERUN_CMAKE | /home/enerhim/Programming/CProjects/sorting/CMakeLists.txt /home/enerhim/Programming/CProjects/sorting/external/glfw/CMake/cmake_uninstall.cmake.in /home/enerhim/Programming/CProjects/sorting/external/glfw/CMake/glfw3.pc.in /home/enerhim/Programming/CProjects/sorting/external/glfw/CMake/glfw3Config.cmake.in /home/enerhim/Programming/CProjects/sorting/external/glfw/CMakeLists.txt /home/enerhim/Programming/CProjects/sorting/external/glfw/docs/CMakeLists.txt /home/enerhim/Programming/CProjects/sorting/external/glfw/src/CMakeLists.txt /usr/share/cmake/Modules/BasicConfigVersion-SameMajorVersion.cmake.in /usr/share/cmake/Modules/CMakeCInformation.cmake /usr/share/cmake/Modules/CMakeCXXInformation.cmake /usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake/Modules/CMakeDependentOption.cmake /usr/share/cmake/Modules/CMakeGenericSystem.cmake /usr/share/cmake/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake/Modules/CMakeLanguageInformation.cmake /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake/Modules/CheckCSourceCompiles.cmake /usr/share/cmake/Modules/CheckFunctionExists.cmake /usr/share/cmake/Modules/CheckIncludeFile.cmake /usr/share/cmake/Modules/CheckIncludeFiles.cmake /usr/share/cmake/Modules/CheckLibraryExists.cmake /usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake/Modules/Compiler/GNU-C.cmake /usr/share/cmake/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake/Modules/Compiler/GNU.cmake /usr/share/cmake/Modules/FindDoxygen.cmake /usr/share/cmake/Modules/FindFontconfig.cmake /usr/share/cmake/Modules/FindFreetype.cmake /usr/share/cmake/Modules/FindOpenGL.cmake /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake /usr/share/cmake/Modules/FindPackageMessage.cmake /usr/share/cmake/Modules/FindPkgConfig.cmake /usr/share/cmake/Modules/FindThreads.cmake /usr/share/cmake/Modules/FindX11.cmake /usr/share/cmake/Modules/GNUInstallDirs.cmake /usr/share/cmake/Modules/Internal/CMakeCLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CheckSourceCompiles.cmake /usr/share/cmake/Modules/Linker/GNU-C.cmake /usr/share/cmake/Modules/Linker/GNU-CXX.cmake /usr/share/cmake/Modules/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU-C.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU-CXX.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake/Modules/Platform/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-Initialize.cmake /usr/share/cmake/Modules/Platform/Linux.cmake /usr/share/cmake/Modules/Platform/UnixPaths.cmake /usr/share/cmake/Modules/SelectLibraryConfigurations.cmake /usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/4.2.2-dirty/CMakeCCompiler.cmake CMakeFiles/4.2.2-dirty/CMakeCXXCompiler.cmake CMakeFiles/4.2.2-dirty/CMakeSystem.cmake
+build build.ninja /mnt/data/Programming/CProjects/sorting/build/cmake_install.cmake /mnt/data/Programming/CProjects/sorting/build/external/glfw/cmake_install.cmake /mnt/data/Programming/CProjects/sorting/build/external/glfw/src/cmake_install.cmake /mnt/data/Programming/CProjects/sorting/build/external/glfw/docs/cmake_install.cmake: RERUN_CMAKE | /mnt/data/Programming/CProjects/sorting/CMakeLists.txt /mnt/data/Programming/CProjects/sorting/external/glfw/CMake/cmake_uninstall.cmake.in /mnt/data/Programming/CProjects/sorting/external/glfw/CMake/glfw3.pc.in /mnt/data/Programming/CProjects/sorting/external/glfw/CMake/glfw3Config.cmake.in /mnt/data/Programming/CProjects/sorting/external/glfw/CMakeLists.txt /mnt/data/Programming/CProjects/sorting/external/glfw/docs/CMakeLists.txt /mnt/data/Programming/CProjects/sorting/external/glfw/src/CMakeLists.txt /usr/share/cmake/Modules/BasicConfigVersion-SameMajorVersion.cmake.in /usr/share/cmake/Modules/CMakeCInformation.cmake /usr/share/cmake/Modules/CMakeCXXInformation.cmake /usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake/Modules/CMakeDependentOption.cmake /usr/share/cmake/Modules/CMakeGenericSystem.cmake /usr/share/cmake/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake/Modules/CMakeLanguageInformation.cmake /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake/Modules/CheckCSourceCompiles.cmake /usr/share/cmake/Modules/CheckFunctionExists.cmake /usr/share/cmake/Modules/CheckIncludeFile.cmake /usr/share/cmake/Modules/CheckIncludeFiles.cmake /usr/share/cmake/Modules/CheckLibraryExists.cmake /usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake/Modules/Compiler/GNU-C.cmake /usr/share/cmake/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake/Modules/Compiler/GNU.cmake /usr/share/cmake/Modules/FindDoxygen.cmake /usr/share/cmake/Modules/FindFontconfig.cmake /usr/share/cmake/Modules/FindFreetype.cmake /usr/share/cmake/Modules/FindOpenGL.cmake /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake /usr/share/cmake/Modules/FindPackageMessage.cmake /usr/share/cmake/Modules/FindPkgConfig.cmake /usr/share/cmake/Modules/FindThreads.cmake /usr/share/cmake/Modules/FindX11.cmake /usr/share/cmake/Modules/GNUInstallDirs.cmake /usr/share/cmake/Modules/Internal/CMakeCLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CheckSourceCompiles.cmake /usr/share/cmake/Modules/Linker/GNU-C.cmake /usr/share/cmake/Modules/Linker/GNU-CXX.cmake /usr/share/cmake/Modules/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU-C.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU-CXX.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake/Modules/Platform/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-Initialize.cmake /usr/share/cmake/Modules/Platform/Linux.cmake /usr/share/cmake/Modules/Platform/UnixPaths.cmake /usr/share/cmake/Modules/SelectLibraryConfigurations.cmake /usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/4.2.3/CMakeCCompiler.cmake CMakeFiles/4.2.3/CMakeCXXCompiler.cmake CMakeFiles/4.2.3/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build /home/enerhim/Programming/CProjects/sorting/CMakeLists.txt /home/enerhim/Programming/CProjects/sorting/external/glfw/CMake/cmake_uninstall.cmake.in /home/enerhim/Programming/CProjects/sorting/external/glfw/CMake/glfw3.pc.in /home/enerhim/Programming/CProjects/sorting/external/glfw/CMake/glfw3Config.cmake.in /home/enerhim/Programming/CProjects/sorting/external/glfw/CMakeLists.txt /home/enerhim/Programming/CProjects/sorting/external/glfw/docs/CMakeLists.txt /home/enerhim/Programming/CProjects/sorting/external/glfw/src/CMakeLists.txt /usr/share/cmake/Modules/BasicConfigVersion-SameMajorVersion.cmake.in /usr/share/cmake/Modules/CMakeCInformation.cmake /usr/share/cmake/Modules/CMakeCXXInformation.cmake /usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake/Modules/CMakeDependentOption.cmake /usr/share/cmake/Modules/CMakeGenericSystem.cmake /usr/share/cmake/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake/Modules/CMakeLanguageInformation.cmake /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake/Modules/CheckCSourceCompiles.cmake /usr/share/cmake/Modules/CheckFunctionExists.cmake /usr/share/cmake/Modules/CheckIncludeFile.cmake /usr/share/cmake/Modules/CheckIncludeFiles.cmake /usr/share/cmake/Modules/CheckLibraryExists.cmake /usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake/Modules/Compiler/GNU-C.cmake /usr/share/cmake/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake/Modules/Compiler/GNU.cmake /usr/share/cmake/Modules/FindDoxygen.cmake /usr/share/cmake/Modules/FindFontconfig.cmake /usr/share/cmake/Modules/FindFreetype.cmake /usr/share/cmake/Modules/FindOpenGL.cmake /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake /usr/share/cmake/Modules/FindPackageMessage.cmake /usr/share/cmake/Modules/FindPkgConfig.cmake /usr/share/cmake/Modules/FindThreads.cmake /usr/share/cmake/Modules/FindX11.cmake /usr/share/cmake/Modules/GNUInstallDirs.cmake /usr/share/cmake/Modules/Internal/CMakeCLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CheckSourceCompiles.cmake /usr/share/cmake/Modules/Linker/GNU-C.cmake /usr/share/cmake/Modules/Linker/GNU-CXX.cmake /usr/share/cmake/Modules/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU-C.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU-CXX.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake/Modules/Platform/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-Initialize.cmake /usr/share/cmake/Modules/Platform/Linux.cmake /usr/share/cmake/Modules/Platform/UnixPaths.cmake /usr/share/cmake/Modules/SelectLibraryConfigurations.cmake /usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/4.2.2-dirty/CMakeCCompiler.cmake CMakeFiles/4.2.2-dirty/CMakeCXXCompiler.cmake CMakeFiles/4.2.2-dirty/CMakeSystem.cmake: phony
+build /mnt/data/Programming/CProjects/sorting/CMakeLists.txt /mnt/data/Programming/CProjects/sorting/external/glfw/CMake/cmake_uninstall.cmake.in /mnt/data/Programming/CProjects/sorting/external/glfw/CMake/glfw3.pc.in /mnt/data/Programming/CProjects/sorting/external/glfw/CMake/glfw3Config.cmake.in /mnt/data/Programming/CProjects/sorting/external/glfw/CMakeLists.txt /mnt/data/Programming/CProjects/sorting/external/glfw/docs/CMakeLists.txt /mnt/data/Programming/CProjects/sorting/external/glfw/src/CMakeLists.txt /usr/share/cmake/Modules/BasicConfigVersion-SameMajorVersion.cmake.in /usr/share/cmake/Modules/CMakeCInformation.cmake /usr/share/cmake/Modules/CMakeCXXInformation.cmake /usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake/Modules/CMakeDependentOption.cmake /usr/share/cmake/Modules/CMakeGenericSystem.cmake /usr/share/cmake/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake/Modules/CMakeLanguageInformation.cmake /usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake/Modules/CheckCSourceCompiles.cmake /usr/share/cmake/Modules/CheckFunctionExists.cmake /usr/share/cmake/Modules/CheckIncludeFile.cmake /usr/share/cmake/Modules/CheckIncludeFiles.cmake /usr/share/cmake/Modules/CheckLibraryExists.cmake /usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake/Modules/Compiler/GNU-C.cmake /usr/share/cmake/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake/Modules/Compiler/GNU.cmake /usr/share/cmake/Modules/FindDoxygen.cmake /usr/share/cmake/Modules/FindFontconfig.cmake /usr/share/cmake/Modules/FindFreetype.cmake /usr/share/cmake/Modules/FindOpenGL.cmake /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake /usr/share/cmake/Modules/FindPackageMessage.cmake /usr/share/cmake/Modules/FindPkgConfig.cmake /usr/share/cmake/Modules/FindThreads.cmake /usr/share/cmake/Modules/FindX11.cmake /usr/share/cmake/Modules/GNUInstallDirs.cmake /usr/share/cmake/Modules/Internal/CMakeCLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CheckSourceCompiles.cmake /usr/share/cmake/Modules/Linker/GNU-C.cmake /usr/share/cmake/Modules/Linker/GNU-CXX.cmake /usr/share/cmake/Modules/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU-C.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU-CXX.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake/Modules/Platform/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-Initialize.cmake /usr/share/cmake/Modules/Platform/Linux.cmake /usr/share/cmake/Modules/Platform/UnixPaths.cmake /usr/share/cmake/Modules/SelectLibraryConfigurations.cmake /usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/4.2.3/CMakeCCompiler.cmake CMakeFiles/4.2.3/CMakeCXXCompiler.cmake CMakeFiles/4.2.3/CMakeSystem.cmake: phony
 
 
 #############################################

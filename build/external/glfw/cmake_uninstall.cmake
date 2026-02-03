@@ -1,9 +1,9 @@
 
-if (NOT EXISTS "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/install_manifest.txt")
-    message(FATAL_ERROR "Cannot find install manifest: \"/home/enerhim/Programming/CProjects/sorting/build/external/glfw/install_manifest.txt\"")
+if (NOT EXISTS "/mnt/data/Programming/CProjects/sorting/build/external/glfw/install_manifest.txt")
+    message(FATAL_ERROR "Cannot find install manifest: \"/mnt/data/Programming/CProjects/sorting/build/external/glfw/install_manifest.txt\"")
 endif()
 
-file(READ "/home/enerhim/Programming/CProjects/sorting/build/external/glfw/install_manifest.txt" files)
+file(READ "/mnt/data/Programming/CProjects/sorting/build/external/glfw/install_manifest.txt" files)
 string(REGEX REPLACE "\n" ";" files "${files}")
 
 foreach (file ${files})

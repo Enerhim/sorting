@@ -1,10 +1,10 @@
 {
 	"InstallScripts" : 
 	[
-		"/home/enerhim/Programming/CProjects/sorting/build/cmake_install.cmake",
-		"/home/enerhim/Programming/CProjects/sorting/build/external/glfw/cmake_install.cmake",
-		"/home/enerhim/Programming/CProjects/sorting/build/external/glfw/src/cmake_install.cmake",
-		"/home/enerhim/Programming/CProjects/sorting/build/external/glfw/docs/cmake_install.cmake"
+		"/mnt/data/Programming/CProjects/sorting/build/cmake_install.cmake",
+		"/mnt/data/Programming/CProjects/sorting/build/external/glfw/cmake_install.cmake",
+		"/mnt/data/Programming/CProjects/sorting/build/external/glfw/src/cmake_install.cmake",
+		"/mnt/data/Programming/CProjects/sorting/build/external/glfw/docs/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
